@@ -1,0 +1,6 @@
+# NAME: Copilot Extra
+# DESCRIPTION: Supplemental rules for https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Copilot/Copilot.list
+
+DOMAIN,m365.cloud.microsoft
+DOMAIN-SUFFIX,m365copilot.com
+DOMAIN,copilot.cloud.microsoft

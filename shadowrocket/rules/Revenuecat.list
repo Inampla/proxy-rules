@@ -1,0 +1,7 @@
+# NAME: RevenueCat
+# DESCRIPTION: Supplemental rules for RevenueCat subscription and purchase services used by mobile apps
+
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,rc-backup.com
+DOMAIN-SUFFIX,pawwalls.com
+DOMAIN,pay.rev.cat
